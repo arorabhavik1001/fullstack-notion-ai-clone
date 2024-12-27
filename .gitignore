@@ -5,3 +5,4 @@ frontend/node_modules
 backend/.vercel
 frontend/.vercel
 frontend/firebase.ts
+frontend/service_key.json
