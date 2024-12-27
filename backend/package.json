@@ -1,0 +1,23 @@
+{
+  "name": "notion_ai_backed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build necessary'",
+    "start": "node api/index.js"
+  },
+  "author": "Bhavik Arora",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fast-xml-parser": "^4.5.1",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.9",
+    "openai": "^4.77.0"
+  }
+}
